@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "452f92ae771c321ed41dd96aab9e2309",
+    "content-hash": "b1de7a21169d89db5834aee2518753ed",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -1738,16 +1738,16 @@
         },
         {
             "name": "hyperf/engine",
-            "version": "v2.6.2",
+            "version": "v2.6.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/engine.git",
-                "reference": "c8b1aa8c12967c876ef5b2f78b340a5344a1d387"
+                "reference": "2816f916909faa084fbec69ae3704d4d9f17025c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/engine/zipball/c8b1aa8c12967c876ef5b2f78b340a5344a1d387",
-                "reference": "c8b1aa8c12967c876ef5b2f78b340a5344a1d387",
+                "url": "https://api.github.com/repos/hyperf/engine/zipball/2816f916909faa084fbec69ae3704d4d9f17025c",
+                "reference": "2816f916909faa084fbec69ae3704d4d9f17025c",
                 "shasum": ""
             },
             "require": {
@@ -1801,9 +1801,9 @@
             ],
             "support": {
                 "issues": "https://github.com/hyperf/engine/issues",
-                "source": "https://github.com/hyperf/engine/tree/v2.6.2"
+                "source": "https://github.com/hyperf/engine/tree/v2.6.3"
             },
-            "time": "2023-03-17T13:29:05+00:00"
+            "time": "2023-03-19T09:50:01+00:00"
         },
         {
             "name": "hyperf/engine-contract",
